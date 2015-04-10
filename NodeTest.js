@@ -10,3 +10,11 @@ var bbmi = bmi("b");
 
 abmi(169,900);
 bbmi(180,100);
+
+
+
+function aaa(name){
+    console.log(name);
+}
+
+aaa("ccc");
