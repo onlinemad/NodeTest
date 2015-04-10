@@ -1,5 +1,5 @@
-function bmi (name) {
-    function countBMI (height, weight) {
+unction bmi (name) {
+    var countBMI = function (height, weight) {
         console.log("Your name is: " + name + ", and your height is: " + height + ", weight is: " + weight);
     }
     return countBMI;
